@@ -1,0 +1,6 @@
+name: verygood
+version: '1.0-SNAPSHOT'
+main: verygood.Verygood
+api-version: '1.21'
+authors: [ TNTXZ ]
+description: 一个使玩家无敌的插件
